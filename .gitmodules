@@ -1,0 +1,10 @@
+[submodule "deps/reshade"]
+	path = deps/reshade
+	url = git@github.com:crosire/reshade.git
+	branch = e68e5f9f240b977314a898791149fcbbf905053c
+[submodule "deps/imgui-filebrowser"]
+	path = deps/imgui-filebrowser
+	url = git@github.com:AirGuanZ/imgui-filebrowser.git
+[submodule "deps/mINI"]
+	path = deps/mINI
+	url = git@github.com:metayeti/mINI.git
