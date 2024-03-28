@@ -8,3 +8,6 @@
 [submodule "deps/mINI"]
 	path = deps/mINI
 	url = git@github.com:metayeti/mINI.git
+[submodule "deps/fpng"]
+	path = deps/fpng
+	url = git@github.com:richgel999/fpng.git
